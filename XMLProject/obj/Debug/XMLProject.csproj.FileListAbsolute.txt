@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\bin\Debug\XMLProject.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\bin\Debug\XMLProject.exe
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\bin\Debug\XMLProject.pdb
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.exe
+c:\users\hp\documents\visual studio 2013\Projects\XMLProject\XMLProject\obj\Debug\XMLProject.pdb
